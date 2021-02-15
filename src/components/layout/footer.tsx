@@ -7,7 +7,7 @@ export default class FooterComponent extends React.Component{
   }
   render(){
     return(
-      <Footer style={{textAlign:'center'}}>
+      <Footer style={{textAlign:'center',background:'#fff'}}>
         <span>github地址：</span>
         <a href="https://github.com/penglin666/react-ts-manage-template.git">https://github.com/penglin666/react-ts-manage-template.git</a>
       </Footer>
