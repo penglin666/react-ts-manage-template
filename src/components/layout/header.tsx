@@ -43,7 +43,7 @@ class HeaderComponent extends React.Component<HProps, IState>{
               </div>
           }>
             <div  style={{cursor:'default'}}>
-              <UserOutlined />Users
+              <UserOutlined />两个大馒头
             </div>
           </Popover>
         </div>
